@@ -3,7 +3,7 @@ using System.Text;
 
 Console.WriteLine("Hello, World!");
 
-// difference between prefix and postfix operator
+// Difference between prefix and postfix operator
 // ++u = prefix = Increment happens on the variable first.
 // u++ = postfix = Increment happens after variable’s value is used.
 int t, u = 1, v;
